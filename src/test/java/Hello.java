@@ -3,7 +3,7 @@ public class Hello {
 
 
         System.out.println("hello world");
-        System.out.println("recapping day 1");
+        System.out.println("recapping day 1, I wanted to recap more");
 
     }
 }
